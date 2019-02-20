@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  icons1 = ['add-circle', 'star', 'magnet', 'lock'];
+  icons2 = ['keypad', 'mic', 'paper-plane'];
 }

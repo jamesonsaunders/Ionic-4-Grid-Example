@@ -1,1 +1,15 @@
 
+ion-col {
+    --ion-grid-columns: 30;
+    background: cadetblue;
+    text-align: center;
+}
+
+ion-grid {
+    --ion-grid-padding: 0;
+    --ion-grid-column-padding: 0;
+}
+
+.grid-of-icons {
+    --ion-grid-column-padding: 32px;
+}
