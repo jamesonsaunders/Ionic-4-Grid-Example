@@ -1,12 +1,12 @@
 # Ionic 4 Grid Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Grid Tutorial](https://youtu.be/c3CrC9lL53k) as well as the blog article [Ionic 4 Grid Tutorial](https://blog.jamibot.com/ionic-4-grid).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Grid Tutorial](https://youtu.be/c3CrC9lL53k) as well as the blog article [Ionic 4 Grid Tutorial](https://blog.jamibot.com/ionic-4-grid).
 
 [![Ionic 4 Grid Tutorial](https://img.youtube.com/vi/c3CrC9lL53k/maxresdefault.jpg)](https://youtu.be/c3CrC9lL53k)
 
 A minimal example of how to get the Ionic 4 Grid working on your own site.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development tutorials.
 
 ## Installation
 
